@@ -1,2 +1,3 @@
 Eka tekstitiedosto
 Toinen rivi tekstiä
+Kolmas rivi
